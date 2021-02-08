@@ -1,1 +1,3 @@
 expected outcomes of the same business model
+
+modified contents
